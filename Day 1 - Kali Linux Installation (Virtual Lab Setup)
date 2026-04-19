@@ -1,0 +1,68 @@
+# Day 1 - Kali Linux Installation (Virtual Lab Setup)
+
+## Objective
+
+To set up a cybersecurity lab environment by installing Kali Linux using VirtualBox.
+
+## Tools Required
+
+* VirtualBox
+  Download: https://www.virtualbox.org/wiki/Downloads
+
+* Kali Linux (Prebuilt Virtual Machine)
+  Download: https://www.kali.org/get-kali/#kali-virtual-machines
+
+## Step 1: Install VirtualBox
+
+* Download VirtualBox from the official website
+* Run the installer and complete the installation
+* Launch VirtualBox after installation
+
+## Step 2: Download Kali Linux
+
+* Go to the Kali Linux download page
+* Download the "VirtualBox Image" (prebuilt file)
+* Extract the downloaded file using WinRAR or 7-Zip
+
+## Step 3: Import Kali Linux into VirtualBox
+
+* Open VirtualBox
+* Click on "Machine" → "Add"
+* Select the extracted Kali Linux `.vbox` file
+* Kali Linux will appear in the VirtualBox list
+
+## Step 4: Start the Virtual Machine
+
+* Select Kali Linux
+* Click "Start"
+* Wait for the system to boot
+
+## Step 5: Login
+
+Default credentials:
+
+* Username: kali
+* Password: kali
+
+## Understanding Virtual Machines
+
+A virtual machine is a software-based system that allows running an operating system inside another system. It is useful for safe testing and learning.
+
+## Why Kali Linux?
+
+Kali Linux is a penetration testing operating system used by security professionals for vulnerability testing and ethical hacking.
+
+## What I Learned
+
+* How to install and set up a virtual machine
+* How Kali Linux works in a virtual environment
+* Importance of a safe lab for cybersecurity practice
+
+## Notes
+
+This lab setup will be used for future tasks like network scanning and vulnerability analysis.
+
+## Next Step
+
+* Learn basic Linux commands
+* Start network scanning using Nmap
