@@ -1,0 +1,56 @@
+# Day 2 - Kali Linux Basics (Lab Practice)
+
+## Objective
+
+To understand basic Linux commands and navigation inside Kali Linux.
+
+---
+
+## Tools Used
+
+* Kali Linux Terminal
+
+---
+
+## Commands Practiced
+
+### System Information
+
+* `pwd` → Shows current directory
+* `whoami` → Shows current user
+* `uname -a` → Displays system information
+
+### File Navigation
+
+* `ls` → Lists files and directories
+* `cd` → Changes directory
+
+### File Management
+
+* `mkdir` → Creates a new folder
+* `touch` → Creates a new file
+* `cat` → Displays file contents
+
+---
+
+## Steps Performed
+
+* Opened terminal in Kali Linux
+* Navigated directories using `cd` and `ls`
+* Created a folder named **lab-test**
+* Created a file named **test.txt**
+* Viewed file contents using `cat`
+
+---
+
+## What I Learned
+
+* How to navigate in Linux
+* How to create and manage files
+* Importance of terminal usage in cybersecurity
+
+---
+
+## Notes
+
+Linux commands are essential for penetration testing and system control.
