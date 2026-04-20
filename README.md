@@ -19,6 +19,7 @@ This repository documents my step-by-step process of building a cybersecurity la
 ## Progress
 
 * Day 1: Installed VirtualBox and explored VM setup
+* Day 2: Studied Kali Linux Command
 
 ## Future Goals
 
